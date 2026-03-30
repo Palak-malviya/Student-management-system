@@ -1,5 +1,9 @@
 # Student Management System
 
+**Student:** Palak Malviya
+
+**Course:** Java Project (NGMC)  
+
 A simple command-line interface (CLI) application written in Java to manage student records effectively. This project allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student data.
 
 ## Features
